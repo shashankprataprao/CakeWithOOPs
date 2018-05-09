@@ -8,7 +8,7 @@ public class BirthdayCake extends BasicCake implements Birthday{
 
 	@Override
 	public void CandlesOnCake() {
-		System.out.println("candles on bDay cake");
+		System.out.println("candles free for bDay cake");
 		
 	}
 

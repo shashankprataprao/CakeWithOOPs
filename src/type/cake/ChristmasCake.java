@@ -9,7 +9,7 @@ public class ChristmasCake extends BasicCake implements Christmas{
 
 	@Override
 	public void MessageOnCake() {
-		System.out.println("happy christmas");
+		System.out.println("wish you a very happy christmas");
 		
 	}
 

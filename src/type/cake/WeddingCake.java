@@ -8,7 +8,7 @@ public class WeddingCake extends BasicCake implements Wedding {
 
 	@Override
 	public void Layering() {
-		System.out.println("here are the layering ");
+		System.out.println(" layering for the cake ");
 		
 	}
 
